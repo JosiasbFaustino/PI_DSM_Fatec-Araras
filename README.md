@@ -36,6 +36,6 @@ Se deseja contribuir para o Projeto Mundo da Lógica, sinta-se à vontade para a
 
 ## Contato
 
-Para mais informações ou dúvidas, entre em contato conosco em rodrigodemelo.ti@gmail.com ou https://github.com/RodrigoDeMelo-Dev.
+Para mais informações ou dúvidas, entre em contato conosco em rodrigodemelo.ti@gmail.com ou https://github.com/RodrigoDeMelo-Dev, Luiz Henrique-https://github.com/luizsimi, Darlan-https://github.com/Jrdotan, Gabriel Cardoso-https://github.com/GabrielSchranck, Josias Faustino-https://github.com/JosiasbFaustino.
 
 Agradecemos por seu interesse no Projeto Mundo da Lógica!
