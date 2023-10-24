@@ -4,7 +4,7 @@
 
 ## 1. Introdução
 
-O Projeto Mundo da Tecnologia visa promover a educação inclusiva e equitativa, oferecendo ensino de qualidade e especializado em tecnologia da informação de forma gratuita e remota. Este projeto surge como uma resposta aos desafios de acessibilidade física enfrentados por estudantes em regiões remotas, bem como uma solução para a crescente demanda por educação a distância (EAD) de alta qualidade. Compreendemos que o conhecimento em tecnologia é fundamental para o futuro, e nosso objetivo é disponibilizá-lo igualitariamente, capacitando os profissionais de amanhã.
+O Projeto Mundo da Lógica visa promover a educação inclusiva e equitativa, oferecendo ensino de qualidade e especializado em tecnologia da informação de forma gratuita e remota. Este projeto surge como uma resposta aos desafios de acessibilidade física enfrentados por estudantes em regiões remotas, bem como uma solução para a crescente demanda por educação a distância (EAD) de alta qualidade. Compreendemos que o conhecimento em tecnologia é fundamental para o futuro, e nosso objetivo é disponibilizá-lo igualitariamente, capacitando os profissionais de amanhã.
 
 ## 1.1 Nossa Visão
 
