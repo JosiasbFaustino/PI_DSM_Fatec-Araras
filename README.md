@@ -2,6 +2,8 @@
 
 # Projeto Mundo da Lógica
 
+<img align="center" width="250px" src="https://github.com/RodrigoDeMelo-Dev/PI_DSM_Fatec-Araras/blob/main/Op%C3%A7%C3%A3o4-Logotipo/LogoSemFundo.png" />
+
 ## 1. Introdução
 
 O Projeto Mundo da Lógica visa promover a educação inclusiva e equitativa, oferecendo ensino de qualidade e especializado em tecnologia da informação de forma gratuita e remota. Este projeto surge como uma resposta aos desafios de acessibilidade física enfrentados por estudantes em regiões remotas, bem como uma solução para a crescente demanda por educação a distância (EAD) de alta qualidade. Compreendemos que o conhecimento em tecnologia é fundamental para o futuro, e nosso objetivo é disponibilizá-lo igualitariamente, capacitando os profissionais de amanhã.
