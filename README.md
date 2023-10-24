@@ -1,5 +1,9 @@
 # PI_DSM_Fatec-Araras
 
+O Projeto Mundo da Lógica teve sua origem em 2023 como um Projeto Interdisciplinar durante o primeiro semestre do curso de Tecnólogo em Desenvolvimento de Software Multiplataforma na<br> Fatec-Araras "Antonio Brambilla". Enfrentamos o desafio de criar uma solução tecnológica compatível ao <br>4º Objetivo da Agenda de 2030 da ONU para o desenvolvimento sustentável: 'Educação de Qualidade'<br> (Saiba mais em https://brasil.un.org/pt-br/sdgs/4).
+
+Assim nasceu o projeto Mundo da Lógica, uma iniciativa voltada para a promoção da educação de qualidade, que busca superar barreiras geográficas e tornar o conhecimento em tecnologia acessível a todos. 
+
 # Projeto Mundo da Lógica
 
 <img align="center" width="250px" src="https://github.com/RodrigoDeMelo-Dev/PI_DSM_Fatec-Araras/blob/main/Op%C3%A7%C3%A3o4-Logotipo/LogoSemFundo.png" />
@@ -38,6 +42,11 @@ Se deseja contribuir para o Projeto Mundo da Lógica, sinta-se à vontade para a
 
 ## Contato
 
-Para mais informações ou dúvidas, entre em contato conosco em rodrigodemelo.ti@gmail.com ou https://github.com/RodrigoDeMelo-Dev, Luiz Henrique-https://github.com/luizsimi, Darlan-https://github.com/Jrdotan, Gabriel Cardoso-https://github.com/GabrielSchranck, Josias Faustino-https://github.com/JosiasbFaustino.
+Para mais informações ou dúvidas, entre em contato conosco:
+- RODRIGO GOMES DE MELO-https://github.com/RodrigoDeMelo-Dev 
+- LUIZ HENRIQUE SIMIONATO VICENTE-https://github.com/luizsimi
+- DARLAN DOS SANTOS OLIVEIRA JUNIOR-https://github.com/Jrdotan
+- GABRIEL CARDOSO SCHRANCK-https://github.com/GabrielSchranck
+- JOSIAS BRAZ FAUSTINO-https://github.com/JosiasbFaustino.
 
 Agradecemos por seu interesse no Projeto Mundo da Lógica!
