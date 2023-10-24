@@ -47,6 +47,6 @@ Para mais informações ou dúvidas, entre em contato conosco:
 - LUIZ HENRIQUE SIMIONATO VICENTE-https://github.com/luizsimi
 - DARLAN DOS SANTOS OLIVEIRA JUNIOR-https://github.com/Jrdotan
 - GABRIEL CARDOSO SCHRANCK-https://github.com/GabrielSchranck
-- JOSIAS BRAZ FAUSTINO-https://github.com/JosiasbFaustino.
+- JOSIAS BRAZ FAUSTINO-https://github.com/JosiasbFaustino
 
 Agradecemos por seu interesse no Projeto Mundo da Lógica!
