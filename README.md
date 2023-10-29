@@ -18,7 +18,7 @@ A falta de acessibilidade geográfica não deve ser um obstáculo para o acesso 
 
 ## 2. Descrição do Projeto
 
-O "Mundo da Lógica" é um portal educacional gratuito e de acesso livre, focado em Tecnologia da Informação (T.I). Neste portal, os alunos podem se inscrever em cursos ministrados por dezenas de professores e acessar módulos de estudo estruturados pelo próprio site.
+O "Mundo da Lógica" é um portal educacional gratuito e de acesso livre, focado no ensino de Algoritmos e Lógica de Programação. Neste portal, os alunos podem se inscrever em cursos ministrados por professores e acessar módulos de estudo estruturados pelo próprio site.
 
 ### Recursos Principais:
 
@@ -30,7 +30,7 @@ O "Mundo da Lógica" é um portal educacional gratuito e de acesso livre, focado
 
 - **Avaliações:** Os alunos podem fazer avaliações para testar seu conhecimento. Se não passarem, têm a oportunidade de refazê-las.
 
-- **Ferramentas de Ensino:** O site oferece ferramentas práticas, como FIGMA para design de layout de sites e SCRATCH para introdução à programação. Uma IDE online será integrada para programação mais avançada.
+- **Ferramentas de Ensino:** O site oferece ferramentas práticas, como FIGMA para design de layout de sites e SCRATCH para introdução à programação. Uma IDE online será integrada para programação mais avançada, Jogos Interativos como Quebra-Cabeças Lógicos, Jogo de Labirinto e Blocos de Código onde o aluno usa blocos de código para criar programas simples e entender os conceitos básicos de programação..
 
 - **Ludificação:** Cada aluno terá um Pet virtual com quem pode interagir. Haverá uma loja virtual para a compra de acessórios para o Pet, usando moedas virtuais ganhas ao completar módulos e obter bom desempenho nas provas.
 
