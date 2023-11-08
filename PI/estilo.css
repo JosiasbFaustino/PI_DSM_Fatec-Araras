@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.pc{
+    position: relative;
+}
+.corpo{
+    height: 100vh;
+    background-image: url(background1.png);
+    background-size: cover;
+    background-position: center bottom;
+    display: flex;
+    position: relative;
+    flex-flow: row wrap;
+    overflow: hidden;
+    z-index: 1;
+}
+.corpo div{
+    flex-grow: 1;
+}
+.botao {
+    display: block;
+    position: absolute;
+    top: 0;
+    margin-top: 200px;
+}
+.logo img{
+    width: 300px;
+    height: 280px;
+    padding: 0;
+    display: inline-block;
+    top: -50px;
+}
+.texto{
+    display: block;
+    width: 800px;
+}
+.texto h1{
+    font-family: 'Baloo 2';
+    color: white;
+    text-align: left;
+    font-size: 60px;
+    font-weight: bolder;
+    padding: 0 0 0 90px;
+}
+
+.botao a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 50px;
+    text-align: center;
+    background-color: #5271FF;
+    margin: 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border: 1px solid #5271FF;
+    border-radius: 50px;
+    box-shadow: 2px 2px 5px #aebdff;
+}
+#matricula{
+    background-color: #FF0000;
+    box-shadow: 2px 2px 5px #f85555;
+    border: 1px solid #FF0000;
+}
+.botao a:hover{
+    background-color: #2547df;
+}
+#matricula:hover{
+    background-color: #a50000;
+}
+.navbar{
+    background-color: #D4D6D1;
+    height: 170px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 10px 30px;
+    text-align: center;
+    color: rgb(67, 89, 143);
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 0 120px;
+}
+footer{
+    position: absolute;
+    width: 100%;
+}
+.navbar div{
+    flex-grow: 1;
+}
+.navbar a:hover{
+    background-color: #eeeeee;
+    color: rgb(50, 78, 151);
+}
+.fatec{
+    background-color: #5271FF;
+    height: 40px;
+    text-align: center;
+}
+.fatec p{
+    color: white;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family:'Baloo 2';
+}
+.tab{
+    display: none;
+}
+.navbar ul {
+    display: none;
+}
+
+@media screen and (max-width: 1210px){
+
+    .corpo{
+        display: block;
+        position: relative;
+        overflow: hidden;
+        justify-content: space-between;
+        height: 93vh;
+    }
+    .botao{
+        display: flex;
+        position: absolute;
+        top: 250px;
+        justify-content: center;
+        width: 100%;
+    }
+    .botao a{
+        display: inline-block;
+    }
+
+    .texto h1{
+        font-size: 50px;
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .navbar a{
+        flex-grow: 1;
+        display: block;
+    }
+    .navbar ul{
+        display: none;
+    }
+    footer{
+        height: 7vh;
+    }
+}
+@media screen and (max-width: 1100px){
+    .navbar{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 955px){
+
+}

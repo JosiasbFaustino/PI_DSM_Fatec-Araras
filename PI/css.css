@@ -1,0 +1,15 @@
+.corpo{
+    display: flex;
+    flex-flow: row wrap;
+}
+.corpo div{
+    flex: 1 1 600px;
+}
+.texto{
+    background-color: blue;
+
+}
+.botao{
+    background-color: chartreuse;
+
+}
