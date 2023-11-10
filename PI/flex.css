@@ -1,0 +1,12 @@
+.corpo{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+footer{
+    display: none;
+}
+.navbar{
+    display: flex;
+    flex-flow: row wrap;
+}
